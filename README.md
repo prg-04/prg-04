@@ -12,8 +12,8 @@
 
 <h3>🛠 Tech Stack</h3>
   
-- 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase 
+- 🌐 &nbsp; flutter | HTML | CSS | Bootstrap | Tailwind-CSS | JavaScript | Reactjs | Ruby on Rails
+- 🛢 &nbsp; MySQL | Firebase | MongoDB | PostgreSQL
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop 
 
