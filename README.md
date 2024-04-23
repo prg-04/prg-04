@@ -6,17 +6,16 @@
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Full-Stack Developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🌱 &nbsp; Enthusiast in Web Development and Artificial Intelligence .
+- ✍️ &nbsp; Reading and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Dart | Java | C++  
+  
 - 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Illustrator | Photoshop 
 
 <br>
 
