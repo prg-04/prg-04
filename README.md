@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Nodejs
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Full-Stack Developer.
 - 🌱 &nbsp; Enthusiast in Web Development and Artificial Intelligence .
@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
   
-- 🌐 &nbsp; flutter | HTML | CSS | Bootstrap | Tailwind-CSS | JavaScript | Reactjs | Ruby on Rails
+- 🌐 &nbsp;  HTML | CSS | Bootstrap | Tailwind-CSS | JavaScript | Reactjs | Nextjs | Ruby on Rails
 - 🛢 &nbsp; MySQL | Firebase | MongoDB | PostgreSQL
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop 
